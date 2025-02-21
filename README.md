@@ -79,7 +79,7 @@ The hidden message will be revealed.
 Demo :
 ![image alt](https://github.com/nidhayshukla45/AICTE_project/blob/0703e7c9cf72a4ba8a1295ee039047e73b55b5a5/Screenshot%20of%20Encrypt%20Code%20with%20Output.png)
 
-![image alt]
+![image alt](https://github.com/nidhayshukla45/AICTE_project/blob/57cd89174711bdeba11f9e43d0b880d3f818efe3/Screenshot%20of%20encryptedImage%20created.png)
 
 ![image alt]
 
