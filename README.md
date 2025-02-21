@@ -78,7 +78,7 @@ The hidden message will be revealed.
 
 Demo :
 
-(Include screenshots or a GIF showing encryption and decryption in action.)
+
 
 Future Scope
 
