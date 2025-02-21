@@ -81,7 +81,7 @@ Demo :
 
 ![image alt](https://github.com/nidhayshukla45/AICTE_project/blob/57cd89174711bdeba11f9e43d0b880d3f818efe3/Screenshot%20of%20encryptedImage%20created.png)
 
-![image alt]
+![image alt](https://github.com/nidhayshukla45/AICTE_project/blob/ff7517ce5eabc46e0d591cf30a0423ffd635bc1d/Screenshot%20of%20Decrypt%20Code%20with%20Output.png)
 
 Future Scope :
 
