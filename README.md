@@ -11,7 +11,7 @@ Features :
 
 Technologies Used :
 
-* Python
+* Python (Spyder IDE)
 
 * OpenCV (for image processing)
 
